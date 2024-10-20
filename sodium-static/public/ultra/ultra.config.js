@@ -8,4 +8,8 @@ self.__uv$config = {
     bundle: '/ultra/ultra.bundle.js',
     config: '/ultra/ultra.config.js',
     sw: '/ultra/ultra.sw.js',
+    $ git clone https://github.com/tomphttp/bare-server-node.git
+    $ cd bare-server-node
 };
+
+
